@@ -1,0 +1,14 @@
+1. Instalar npx (-g Global)
+```
+npm i -g npx
+```
+2. Crear aplicacion con react
+```
+npx create-react-app mtic-app
+```
+3. Lanzar el servidor
+```
+npm start
+```
+
+ "react-router-dom": "^5.3.0",
